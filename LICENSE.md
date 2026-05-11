@@ -1,4 +1,4 @@
-
+vip Addon for Bartender for macOS - battery-health and snapshot-rollback offers the most advanced Bartender for macOS addon, with battery-health and snapshot-rollback. Ideal for
 
 
 
